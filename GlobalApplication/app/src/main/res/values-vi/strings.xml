@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlobalApplication</string>
+    <string name="text_PhieuThongTin">Phiếu Thông Tin</string>
+    <string name="hint_SoDienThoai">Nhập số điện thoại</string>
+    <string name="hint_HoTen">Nhập số điện thoại</string>
+    <string name="hint_Email">Nhập email</string>
+    <string name="text_XacNhan">Xác nhận</string>
+    <string name="text_ChaoBan">Xin chào</string>
+    <string name="text_SoDienThoai">Số điện thoại</string>
+</resources>

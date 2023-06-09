@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GlobalApplication</string>
+    <string name="text_PhieuThongTin">Infomation Form</string>
+    <string name="hint_SoDienThoai">Enter Phone Number</string>
+    <string name="hint_HoTen">Enter Full Name</string>
+    <string name="hint_Email">Enter Email</string>
+    <string name="text_XacNhan">Confirm</string>
+    <string name="text_ChaoBan">Hello</string>
+    <string name="text_Email" translatable="false">Email</string>
+    <string name="text_SoDienThoai">Phone Number</string>
+</resources>
